@@ -27,3 +27,30 @@ html, body {
     border-radius: 5px;
     width: 280px;
 }
+
+.container {
+    background-color: rgba(190, 188, 184, 0.548);
+    width: 400px;
+    height: 55vh;
+    padding: 10px;
+    border: 3px solid black;
+}
+.text-center {
+    text-align: center;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
